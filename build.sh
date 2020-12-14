@@ -1,0 +1,1 @@
+docker build ./backend -t "bake-sale/api:latest"

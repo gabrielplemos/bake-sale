@@ -1,0 +1,10 @@
+name,price,available,image_url,type
+Brownie,0.65,48,https://comidinhasdochef.com/?attachment_id=23940,BAKING
+Muffin,1.0,36,https://s2.glbimg.com/05Ssx0Jkgjb1yaefnxulaioWFbA=/0x0:280x249/640x0/smart/filters:strip_icc()/s.glbimg.com/po/rc/media/2011/07/12/17/41/58/663/baunilhamuffing.jpg,BAKING
+Cake Pop,1.35,24,https://img.itdg.com.br/tdg/images/recipes/000/168/097/141721/141721_original.jpg?mode=crop&width=710&height=400,BAKING
+Apple tart,1.5,60,https://www.joyofbaking.com/images/frenchappletart.jpg,BAKING
+Water,1.5,30,https://aguamineralhydrate.com.br/wp-content/uploads/2016/02/Garrafa-Agua-Mineral-1-5-litro-entrega.jpg,BAKING
+Shirt,2.0,10,https://cache.net-a-porter.com/images/products/1009804/1009804_in_2000_q80.jpg,CLOTHING
+Pants,3.0,15,https://images-dynamic-arcteryx.imgix.net/F20/450x625/Levon-Pant-Elk.png?auto=format,CLOTHING
+Jacket,4.0,5,https://images-dynamic-arcteryx.imgix.net/F20/450x625/Rico-Jacket-Dracaena.png?auto=format,CLOTHING
+Toy,1.0,8,https://images-na.ssl-images-amazon.com/images/I/61NfZfkEl-L._AC_SL1000_.jpg,CLOTHING

@@ -1,0 +1,39 @@
+{
+  "items": [
+    {
+      "name": "Brownie",
+      "price": 0.65,
+      "available": 48,
+      "image_url": "https://comidinhasdochef.com/?attachment_id=23940",
+      "type": "CLOTHING"
+    },
+    {
+      "name": "Muffin",
+      "price": 1.0,
+      "available": 36,
+      "image_url": "https://comidinhasdochef.com/?attachment_id=23940",
+      "type": "CLOTHING"
+    },
+    {
+      "name": "Cake Pop",
+      "price": 1.35,
+      "available": 24,
+      "image_url": "https://comidinhasdochef.com/?attachment_id=23940",
+      "type": "CLOTHING"
+    },
+    {
+      "name": "Apple tart",
+      "price": 1.5,
+      "available": 60,
+      "image_url": "https://comidinhasdochef.com/?attachment_id=23940",
+      "type": "CLOTHING"
+    },
+    {
+      "name": "Water",
+      "price": 1.5,
+      "available": 30,
+      "image_url": "https://comidinhasdochef.com/?attachment_id=23940",
+      "type": "CLOTHING"
+    }
+  ]
+}

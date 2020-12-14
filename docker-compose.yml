@@ -1,0 +1,23 @@
+version: "2"
+
+services:
+
+  postgresql:
+    image: postgres:13
+    restart: always
+    environment:
+      POSTGRES_USER: bakesale
+      POSTGRES_PASSWORD: bakesale
+      POSTGRES_DB: bake_sale_db
+    ports:
+      - "5432:5432"
+  
+  api:
+    image: bake-sale/api
+    environment:
+      spring.datasource.url: "jdbc:postgresql://postgresql:5432/bake_sale_db"
+    ports:
+      - "8080:8080"
+
+networks:
+  default:
